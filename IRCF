@@ -111,13 +111,13 @@
       "tag": "WarpInWarp ⭐️ § 0",
       "local_address": [
         "172.16.0.2/24",
-        "2606:4700:110:859c:630b:6d59:4ec4:15d5/128"
+        "2606:4700:110:8050:74dc:ddb4:2151:c6fa/128"
       ],
-      "private_key": "ONM8K8ofOUXfM2Nh3lIKrBTxXG+B+XmYQbHD0EuTvmY=",
-      "server": "162.159.192.223",
-      "server_port": 864,
+      "private_key": "cDTtnNTa4NK9CtBDcOeS0k2+g0g7FqqbznQ0aVEuH3o=",
+      "server": "162.159.195.99",
+      "server_port": 8854,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "AAAA",
+      "reserved": [ 151, 130, 238 ],
       "mtu": 1280,
       "fake_packets": "8-15",
       "fake_packets_size": "40-100",
@@ -129,13 +129,13 @@
       "detour": "WarpInWarp ⭐️ § 0",
       "local_address": [
         "172.16.0.2/24",
-        "2606:4700:110:8de4:b926:9483:808a:b729/128"
+        "2606:4700:110:8279:c16e:8172:67a8:5448/128"
       ],
-      "private_key": "EDl8SLztwrX9Y52fNsftlrhnjjOJQN9jSukzmcSdfmA=",
-      "server": "162.159.192.45",
-      "server_port": 928,
+      "private_key": "IIcpY8pmlSDR6DK+k6jTiJ/Vy9TfGcZJ6e48WMpXYXs=",
+      "server": "162.159.192.124",
+      "server_port": 8854,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "AAAA",
+      "reserved": [ 116, 105, 230 ],
       "mtu": 1120,
       "fake_packets_size": "40-100",
       "fake_packets_delay": "20-250"
